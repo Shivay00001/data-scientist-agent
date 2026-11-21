@@ -1,5 +1,7 @@
 # AI Data Scientist Agent
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 A Python-capable AI agent capable of writing, executing, and analyzing machine learning scripts autonomously.
 
 ## Overview
